@@ -1,1 +1,1 @@
-# MatLab_Apps
+# MATLAB Applications
