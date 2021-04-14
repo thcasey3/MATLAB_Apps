@@ -9,12 +9,12 @@ MATLAB Applications for Magnetic Resonance Data
     :target: https://easyspin.org/easyspin/documentation/
 
 .. |DeerAnalysis| image:: https://img.shields.io/badge/Deer-Analysis-lightgrey
-    :target: https://easyspin.org/easyspin/documentation/
+    :target: https://epr.ethz.ch/software.html
 
 .. |DNPLab| image:: https://img.shields.io/badge/DNP-Lab-green
     :target: http://dnplab.net/
 
-Please download apps from |FileExchange| 
+Please download the apps from the |FileExchange| 
 
 Companion or related packages: |DNPLab| |easyspin| |DeerAnalysis|
 
